@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    padding: 200px;
+    margin: auto;
+
+}
+.box{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+}
+.button {
+    height: 50px;
+    width: 50px;
+    /* flex-direction: column; */
+    border: 2px solid black;
+}
+#gray {
+    background-color: gray;
+}
+#white {
+    background-color: white;
+}
+#blue {
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+h2{
+    text-align: center;
+}
